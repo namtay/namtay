@@ -10,7 +10,6 @@ Software Engineer
 * 🧠  I'm currently learning Hugo and Docfx frameworks
 * 👥  I'm looking to collaborate on web , machine learning cybersecurity projects
 
-### Skills  
 
 ### Skills  
 
